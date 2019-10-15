@@ -1,4 +1,4 @@
-# page-detour-Multi Linear Regression Analysis
+# Multi Linear Regression Analysis
 
 My small experiments and trials ;)
 Here i'm uploading my python projects on Machine Learning and Data Analytics.
